@@ -1,0 +1,25 @@
+{
+  "name": "brasil-mundo-agora-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vídeo jornalístico vertical de 35 segundos em Remotion, sem som e sem assets binários.",
+  "scripts": {
+    "start": "remotion studio remotion/index.tsx",
+    "render": "remotion render remotion/index.tsx BrazilWorldNews35s remotion/renders/brasil-mundo-agora-35s.mp4",
+    "preview": "remotion preview remotion/index.tsx",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "remotion": "^4.0.300",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "typescript": "^5.7.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

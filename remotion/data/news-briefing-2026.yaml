@@ -1,0 +1,64 @@
+title: "Brasil e Mundo Agora"
+year: 2026
+durationSeconds: 35
+format:
+  width: 1080
+  height: 1920
+  fps: 30
+  audio: false
+  binaryImages: false
+style:
+  category: "jornalístico viral TikTok"
+  tone: "urgente, neutro, rápido e informativo"
+  colors:
+    background: "#080B12"
+    alert: "#EA4335"
+    blue: "#4285F4"
+    yellow: "#FBBC05"
+    green: "#34A853"
+    white: "#FFFFFF"
+sections:
+  - topic: "Política Brasil"
+    headline: "PEC 6x1 chega ao Senado"
+    bullets:
+      - "Negociação intensa após aprovação na Câmara"
+      - "Textos alternativos discutem transição e jornadas flexíveis"
+  - topic: "Sucessão Presidencial"
+    headline: "Rachas na articulação conservadora"
+    bullets:
+      - "PSD descarta chapa Zema + Caiado"
+  - topic: "Segurança RJ"
+    headline: "Escutas no Palácio Guanabara"
+    bullets:
+      - "Dispositivos foram encontrados no gabinete do governador"
+      - "Investigação sigilosa foi aberta"
+  - topic: "Economia e Clima"
+    headline: "Agro se prepara para Super El Niño"
+    bullets:
+      - "Setor reavalia logística e proteção hídrica"
+      - "Cemaden alerta Manaus e Boa Vista"
+  - topic: "Colômbia"
+    headline: "Eleição presidencial vai ao 2º turno"
+    bullets:
+      - "Abelardo de la Espriella lidera contagem prévia"
+      - "Iván Cepeda disputa o segundo turno"
+      - "Petro contesta resultado prévio"
+  - topic: "Geopolítica"
+    headline: "EUA anunciam ataques no sul do Irã"
+    bullets:
+      - "Alvos incluem radares e bases de drones"
+  - topic: "Esportes"
+    headline: "Mês da Copa do Mundo 2026 começa"
+    bullets:
+      - "Torneio será sediado por EUA, México e Canadá"
+      - "Varejo registra alta na procura por TVs"
+cta:
+  title: "Quer o briefing diário em 35 segundos?"
+  subtitle: "Salve, compartilhe e acompanhe as próximas atualizações."
+  hashtags:
+    - "#Noticias"
+    - "#Brasil"
+    - "#Mundo"
+    - "#Politica"
+    - "#Economia"
+    - "#Copa2026"

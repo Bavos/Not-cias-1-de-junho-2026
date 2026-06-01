@@ -1,0 +1,18 @@
+node_modules/
+dist/
+build/
+.cache/
+.env
+.env.local
+
+# Remotion output: keep folder placeholder only
+remotion/renders/*
+!remotion/renders/.gitkeep
+
+# Downloaded/generated media: keep documentation and placeholders only
+downloads/*
+!downloads/README.md
+!downloads/generated/
+!downloads/generated/.gitkeep
+!downloads/temp/
+!downloads/temp/.gitkeep
